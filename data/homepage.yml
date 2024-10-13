@@ -1,12 +1,12 @@
 head:
-  title: "Matt Dancho's Data Science Portfolio"
+  title: "Surya Limbu's Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
-  subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  title: "Hello, I’m Surya Limbu."
+  subtitle: "Software Engineer"
+  description: "Surya is a recent graduate and a software engineer with over 4.5 years of experience, specializing in backend development."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -16,39 +16,39 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    btnText: "Contact Surya"
+    URL: "mailto:limbusuryapratap14@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com"
+      URL: "https://www.linkedin.com/in/suryahangam/"
 
     - icon: "github"
-      URL: "https://github.com"
+      URL: "https://github.com/suryahangam"
 
-    - icon: "twitter"
-      URL: "https://twitter.com"
+    # - icon: "twitter"
+    #   URL: "https://twitter.com"
 
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com"
 
-    - icon: "behance"
-      URL: "https://www.behance.net"
+    # - icon: "behance"
+    #   URL: "https://www.behance.net"
 
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
+    # - icon: "instagram"
+    #   URL: "https://www.instagram.com"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com"
+      URL: "https://www.facebook.com/surya.hangam"
 
-    - icon: "codepen"
-      URL: "#"
+    # - icon: "codepen"
+    #   URL: "#"
 
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -56,19 +56,17 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    <strong>I love solving problems and applying new ideas.</strong>
+    I like finding new ways of doing things. My core area of focus is backend application implementations including deployments.
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <p class="lead">
+    I have a strong foundation in backend development and have worked on various projects. I am always looking for new opportunities to learn and grow.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/suryahangam/"
   image:
     x: "img/who-am-i/user-picture-2.jpg"
     _2x: "img/who-am-i/user-picture-2.jpg"
