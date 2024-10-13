@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
+    copyright: © Surya Limbu. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Matt
-    text2: Dancho
+    text1: Surya
+    text2: Limbu
   plugins:
     css:
       - URL: css/main.css
@@ -35,19 +35,25 @@ menu:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#portfolio'
-      name: Portfolio
+    - URL: '#experience'
+      name: Experience
       weight: 3
+    - URL: '#education'
+      name: Education
+      weight: 4
     - URL: '#contact'
       name: Contact
-      weight: 4
+      weight: 5
   header:
     - URL: '#about'
       name: About
       weight: 2
-    - URL: '#portfolio'
-      name: Portfolio
+    - URL: '#experience'
+      name: Experience
       weight: 3
+    - URL: '#education'
+      name: Education
+      weight: 4
     - URL: '#contact'
       name: Contact
-      weight: 4
+      weight: 5

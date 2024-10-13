@@ -75,143 +75,143 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 4.5+ years of experience working with companies from all over the world. I design & develop web/mobile applications to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/suryahangam/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/cv/resume-surya.pdf"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Associate Team Lead"
+      company: "Code Himalaya Pvt. Ltd."
+      duration: "Aug 2022 - July 2023"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Senior Software Engineer"
+      company: "Code Himalaya Pvt. Ltd."
+      duration: "Feb 2022 - Aug 2022"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Software Engineer"
+      company: "MAGDOTNET"
+      duration: "Sep 2021 - Feb 2022"
+
+    - title: "Software Engineer"
+      company: "InfoDevelopers Pvt. Ltd."
+      duration: "Jun 2019 - Sep 2021"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
+    - university: "University of West London"
+      year: "2023-2024"
+      degree: "MSc. Software Engineering"
 
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
-      
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
+    - university: "University of Northampton"
+      year: "2016-2019"
+      degree: "BSc.(Hons) Software Engineering"
 
 
 
 # Client & Work
-client_and_work:
-  title: "Portfolio"
-  enable: true
+# client_and_work:
+#   title: "Portfolio"
+#   enable: true
   
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+#   enable_clients: false
+#   clients:
+#     - logo:
+#         x: "img/clients/asgardia.png"
+#         _2x: "img/clients/asgardia@2x.png"
+#       alt: "Asgardia"
 
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+#     - logo:
+#         x: "img/clients/earth-2.png"
+#         _2x: "img/clients/earth-2@2x.png"
+#       alt: "Earth 2.0"
 
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+#     - logo:
+#         x: "img/clients/goldline.png"
+#         _2x: "img/clients/goldline@2x.png"
+#       alt: "Goldline"
 
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+#     - logo:
+#         x: "img/clients/kanba.png"
+#         _2x: "img/clients/kanba@2x.png"
+#       alt: "Kanba"
 
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+#     - logo:
+#         x: "img/clients/zoo-tv.png"
+#         _2x: "img/clients/zoo-tv@2x.png"
+#       alt: "Zoo"
 
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+#     - logo:
+#         x: "img/clients/ztos.png"
+#         _2x: "img/clients/ztos@2x.png"
+#       alt: "Ztos"
 
-  works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
-      image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
-      is_even: true
+#   works:
+#     - title: "Sales Demand Forecast Application"
+#       description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Launch Application"
+#         URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+#       image:
+#         x: "img/works/app_sales_demand_forecast.jpg"
+#         _2x: "img/works/app_sales_demand_forecast.jpg"
+#       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-      image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
+#     - title: "Product Price Recommendation"
+#       description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Launch Application"
+#         URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+#       image:
+#         x: "img/works/app_cannondale_price_prediction.jpg"
+#         _2x: "img/works/app_cannondale_price_prediction.jpg"
+      # is_even: false
 
     
 
 # testimonial
-testimonial:
-  enable: true
-  title: "Testimonials"
-  items:
+# testimonial:
+#   enable: true
+#   title: "Testimonials"
+#   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
-      image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+#     - name: "Justin Kurland, PhD"
+#       position: "Lead Data Scientist, Northwestern Mutual"
+#       content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+#       image:
+#         x: "img/testimonials/justin.jpg"
+#         _2x: "img/testimonials/justin.jpg"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-      image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+#     - name: "Chris Selig"
+#       position: "Data Scientist"
+#       content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+#       image:
+#         x: "img/testimonials/chris.jpg"
+#         _2x: "img/testimonials/chris.jpg"
 
     
 
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-      image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+#     - name: "Mohana Krishna Chittoor"
+#       position: "Lead Data Scientist, Money View"
+#       content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+#       image:
+#         x: "img/testimonials/mohana.jpg"
+#         _2x: "img/testimonials/mohana.jpg"
 
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Surya"
     
   image:
     x: "img/who-am-i/user-picture-2.jpg"
@@ -220,17 +220,17 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:limbusuryapratap14@gmail.com'
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "+44-7887638302"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:limbusuryapratap14@gmail.com">limbusuryapratap14@gmail.com</a>'
   address:
     title: "Address"
-    address: "--"
+    address: "London, UK"
   
 
 # newsletter
